@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Mt. Diablo State Park"
+excerpt: "<img src='/images/portfolio/mt_diablo.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Taken at [Mt. Diablo State Park](https://www.parks.ca.gov/?page_id=517) on a cloudy day.
+
+<img src='/images/portfolio/mt_diablo.jpg'>

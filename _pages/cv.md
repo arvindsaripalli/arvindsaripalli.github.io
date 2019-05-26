@@ -11,32 +11,71 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+University of California San Diego
+B.S. Computer Science and Engineering
+Expected June 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Facebook
+  * Software Engineering Intern
+  * June 2019 - September 2019
+  * Bellevue, WA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* [Accel Robotics](https://www.accelrobotics.com)
+  * Software Engineering Intern
+  * January 2018 - September 2018
+  * La Jolla, CA
   
+* [Gravalabs](https://www.medzii.com)
+  * Software Engineering Intern
+  * September 2016 - August 2017
+  * Bellevue, WA
+
+Research Experience
+======
+* [UCSD Statistical Visual Computing Lab](svcl.ucsd.edu)
+  * Undergraduate Research Assistant
+  * June 2018 - Present
+  * La Jolla, CA
+
+* [Yonder Deep Robotics](yonderdeep.org)
+  * Board Member, Software Team Lead
+  * December 2017 - June 2019
+  * La Jolla, CA
+
+* [University of Washington Medical Center, Radiation Oncology Lab](https://radiationoncology.uw.edu/)
+  * Research Assistant
+  * June 2016 - August 2016
+  * Seattle, WA
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, Java, Javascript, C, C++ STL, R/Matlab
+* Libraries: Pytorch, Pandas, Numpy, OpenCV, Tensorflow
+* Other: Deep Learning, UNIX, Docker, Git
 
-Publications
+Relevant Coursework
+======
+* Fall 2019
+  * CSE 106 - Discrete and Continuous Optimization
+  * CSE 154 - Deep Learning
+  * CSE 130 - Programming Languages
+
+* Spring 2019
+  * CSE 156 - Natural Language Processing
+  * CSE 120 - Operating Systems
+  * COGS 108 - Data Science in Practice
+
+* Winter 2019
+  * CSE 101 - Algorithms
+  * CSE 151 - Machine Learning
+  * CSE 110 - Software Engineering
+
+
+[comment]: #
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,8 +91,5 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
+
