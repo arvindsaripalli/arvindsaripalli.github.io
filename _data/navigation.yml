@@ -13,14 +13,14 @@ main:
     url: /cv/
     
   - title: "Projects"
-    url: /projects/
+    url: /portfolio/
 
   - title: "Book List"
     url: /books/
 
   - title: "Pictures"
-    url: /portfolio/
-        
+    url: /pictures/
+
   - title: "Blog Posts"
     url: /year-archive/
 

@@ -1,9 +1,10 @@
 ---
-title: "Black's Beach 1"
-excerpt: "<img src='/images/portfolio/black_beach_1.jpg'>"
+title: "Reordering Spotify Playlists"
+excerpt: "What's the best order to listen your playlists or music library in?"
 collection: portfolio
 ---
+[Spotiflow](https://github.com/arvindsaripalli/Spotiflow) is a program that lets you reorganize
+the order of your playlists <en>optimally</en>. It does this by picking songs that are <en>closest</en>
+to each other based on song meta data.
 
-Taken at [Black's Beach](https://www.google.com/maps/place/Black's+Beach,+San+Diego,+CA+92037/data=!4m2!3m1!1s0x80dc068fc8820f2b:0xcea1029b3b92dc8f?sa=X&ved=2ahUKEwjNtceCn7riAhXEpJ4KHbz-Ag4Q8gEwIHoECAsQCA).
-
-<img src="/images/portfolio/black_beach_1.jpg">
+Hacked together at SDHacks 2017.
