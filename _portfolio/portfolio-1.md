@@ -1,6 +1,6 @@
 ---
 title: "Visualizing Google Trends"
-excerpt: ""
+excerpt: "A quick data exploration of google trends data."
 collection: portfolio
 ---
 
