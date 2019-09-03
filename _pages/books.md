@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 ## What I'm reading right now
- by 
 [A Short History of Nearly Everything by <em>Bill Bryson</em>](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)
 <br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433086293l/21._SY475_.jpg'>
 
