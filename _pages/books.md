@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ## What I'm reading right now
-[A Short History of Nearly Everything by <em>Bill Bryson</em>](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)
-<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433086293l/21._SY475_.jpg'>
+[Homo Deus: A History of Tomorrow by <em>Yuval Noah Harari</em>](https://www.goodreads.com/book/show/31138556-homo-deus?ac=1&from_search=true&qid=hyPheiZTWU&rank=1)
+<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468760805l/31138556._SY475_.jpg'>
 
 ## Books that I would like to read
-* [When Breath Becomes Air by <em>Paul Kalanithi</em>](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air?ac=1&from_search=true)
+* [The Grapes of Wrath by <em>John Steinbeck</em>](https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath?ac=1&from_search=true&qid=51pmQ9jM7s&rank=1)
 
 ## Books I read in 2019
 * [Educated by <em>Tara Westover</em>](https://www.goodreads.com/book/show/35133922-educated?from_search=true)
@@ -21,6 +21,12 @@ redirect_from:
 * [Ambivalent Zen by <em>Lawrence Shainberg</em>](https://www.goodreads.com/book/show/904839.Ambivalent_Zen?ac=1&from_search=true)
 * [The Namesake by <em>Jhumpa Lahiri</em>](https://www.goodreads.com/book/show/33917.The_Namesake?from_search=true)
 * [Gone Girl by <em>Gillian Flynn</em>](https://www.goodreads.com/book/show/19288043-gone-girl?ac=1&from_search=true)
+* [Slaughterhouse Five by <em>Kurt Vonnegut</em>](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five?ac=1&from_search=true&qid=EMn3RUoYFN&rank=1#)
+* [When Breath Becomes Air by <em>Paul Kalanithi</em>](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air?ac=1&from_search=true&qid=yfyhfx5rk2&rank=1#)
+* [Bad Blood by <em>John Carreyrou</em>](https://www.goodreads.com/book/show/37976541-bad-blood?ac=1&from_search=true&qid=owAXMYUQ05&rank=1#)
+* [1984 by <em>George Orwell</em>](https://www.goodreads.com/book/show/40961427-1984?ac=1&from_search=true&qid=RGgwaGJSe8&rank=1#)
+* [Things Fall Apart by <em>Chinua Achebe</em>](https://www.goodreads.com/book/show/37781.Things_Fall_Apart?ac=1&from_search=true&qid=Ux7eRzz6DV&rank=2)
+
 
 <!-- * [<em></em>]() -->
 
