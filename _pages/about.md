@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 I am a senior at UC San Diego studying [Computer Science and Engineering](https://cse.ucsd.edu). 
-Some of my interests include Computer Vision, Natural Language Processing, and building AI applications.
+I'd like to work on computer infrastructure at scale, computer networking, and distributed systems.
 
-In my free time, I like to read nonfiction, take photos, and play Squash.
+In my free time, I like to read, take photos, and run.
 
-This summer I will be working at Facebook Bellevue on the Search Team to solve interesting NLP problems at scale!
+This summer I will be graduating and joining Asana as a Software Engineering in San Francisco!
 
 [comment]: #
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
