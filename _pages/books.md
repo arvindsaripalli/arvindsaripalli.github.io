@@ -19,6 +19,7 @@ redirect_from:
 * [Lingo by <em>Gaston Dorren</em>](https://www.goodreads.com/book/show/23534636-lingo?from_search=true)
 * [Man’s Search for Meaning by <em>Viktor Frankel</em>](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning?from_search=true)
 * [Ambivalent Zen by <em>Lawrence Shainberg</em>](https://www.goodreads.com/book/show/904839.Ambivalent_Zen?ac=1&from_search=true)
+* [A Short History of Nearly Everything by <em>Bill Bryson</em>](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything?from_search=true&qid=LW7C2LgHds&rank=1)
 * [The Namesake by <em>Jhumpa Lahiri</em>](https://www.goodreads.com/book/show/33917.The_Namesake?from_search=true)
 * [Gone Girl by <em>Gillian Flynn</em>](https://www.goodreads.com/book/show/19288043-gone-girl?ac=1&from_search=true)
 * [Slaughterhouse Five by <em>Kurt Vonnegut</em>](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five?ac=1&from_search=true&qid=EMn3RUoYFN&rank=1#)
