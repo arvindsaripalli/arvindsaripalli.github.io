@@ -8,11 +8,20 @@ redirect_from:
 ---
 
 ## What I'm reading right now
-[Homo Deus: A History of Tomorrow by <em>Yuval Noah Harari</em>](https://www.goodreads.com/book/show/31138556-homo-deus?ac=1&from_search=true&qid=hyPheiZTWU&rank=1)
-<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468760805l/31138556._SY475_.jpg'>
+[Talking to Strangers by <em>Malcom Gladwell</em>](https://www.goodreads.com/book/show/43848929-talking-to-strangers?ac=1&from_search=true&qid=0EZP73LBlA&rank=1)
+<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549393502l/43848929._SX318_.jpg'>
+
+[The Sirens of Titan by <em>Kurt Vonnegut</em>](https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan)
+<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419363185l/4982.jpg'>
+
 
 ## Books that I would like to read
 * [The Grapes of Wrath by <em>John Steinbeck</em>](https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath?ac=1&from_search=true&qid=51pmQ9jM7s&rank=1)
+
+## Books I read in 2020
+* [Modern Romance by <em>Aziz Ansari</em>](https://www.goodreads.com/book/show/23453112-modern-romance)
+* [The Institute by <em>Stephen King</em>](https://www.goodreads.com/book/show/43798285-the-institute?ac=1&from_search=true&qid=hp124zgzZU&rank=1)
+* [The Stranger by <em>Albert Camus</em>](https://www.goodreads.com/book/show/49552.The_Stranger?ac=1&from_search=true&qid=E1gYUlqyqQ&rank=1)
 
 ## Books I read in 2019
 * [Educated by <em>Tara Westover</em>](https://www.goodreads.com/book/show/35133922-educated?from_search=true)
