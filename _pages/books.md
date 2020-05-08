@@ -14,6 +14,8 @@ redirect_from:
 [The Sirens of Titan by <em>Kurt Vonnegut</em>](https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan)
 <br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419363185l/4982.jpg'>
 
+[Salt by <em>Mark Kurlansky</em>](https://www.goodreads.com/book/show/2715.Salt)
+<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414608893l/2715.jpg'>
 
 ## Books that I would like to read
 * [The Grapes of Wrath by <em>John Steinbeck</em>](https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath?ac=1&from_search=true&qid=51pmQ9jM7s&rank=1)
