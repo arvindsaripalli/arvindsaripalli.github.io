@@ -8,22 +8,35 @@ redirect_from:
 ---
 
 ## What I'm reading right now
-[Talking to Strangers by <em>Malcom Gladwell</em>](https://www.goodreads.com/book/show/43848929-talking-to-strangers?ac=1&from_search=true&qid=0EZP73LBlA&rank=1)
-<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549393502l/43848929._SX318_.jpg'>
+[East of Eden by <em>John Steinbeck</em>](https://www.goodreads.com/book/show/4406.East_of_Eden)
+<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544744853l/4406._SY475_.jpg'>
 
-[The Sirens of Titan by <em>Kurt Vonnegut</em>](https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan)
-<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419363185l/4982.jpg'>
+[Chasing the Scream: The First and Last Days of the War on Drugs by <em>Jonathan Hari</em>](https://www.goodreads.com/book/show/22245552-chasing-the-scream?ac=1&from_search=true&qid=dRbBNsUP1i&rank=1)
+<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416448118l/22245552.jpg'>
 
-[Salt by <em>Mark Kurlansky</em>](https://www.goodreads.com/book/show/2715.Salt)
-<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414608893l/2715.jpg'>
+[The Lessons of History by <em>Will Durant</em>](https://www.goodreads.com/book/show/174713.The_Lessons_of_History?ac=1&from_search=true&qid=BpuxpZS5g9&rank=1)
+<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387722025l/174713.jpg'>
 
 ## Books that I would like to read
-* [The Grapes of Wrath by <em>John Steinbeck</em>](https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath?ac=1&from_search=true&qid=51pmQ9jM7s&rank=1)
+* [Missoula by <em>John Krakauer</em>](https://www.goodreads.com/book/show/24911006-missoula?from_search=true&from_srp=true&qid=zaGRtQMi0w&rank=1)
+* [How to Change Your Mind by <em>Michael Pollan</em>](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind?from_search=true&from_srp=true&qid=UsIJGqvM6Z&rank=4) 
+* [God: A Human History by <em>Reza Aslan</em>](https://www.goodreads.com/book/show/34101725-god?from_search=true&from_srp=true&qid=t2OE4LwQBi&rank=2) 
+* [Kitchen Confidential by <em>Anthony Bourdain</em>](https://www.goodreads.com/book/show/33313.Kitchen_Confidential?ac=1&from_search=true&qid=icSYU8yVW3&rank=1) 
+* [Everything I Never Told You by <em>Celeste Ng</em>](https://www.goodreads.com/book/show/18693763-everything-i-never-told-you?ac=1&from_search=true&qid=cwCdttgCyy&rank=1) 
+* [Born a Crime by <em>Trevor Noah</em>](https://www.goodreads.com/book/show/29780253-born-a-crime?from_search=true&from_srp=true&qid=D3e3CPzTlL&rank=1)
+* [Becoming by <em>Michelle Obama</em>](https://www.goodreads.com/book/show/38746485-becoming?from_search=true&from_srp=true&qid=Yxarl0ibeX&rank=1)
+* [Don Quixote by <em>Miguel de Cervantes Saavedra</em>](https://www.goodreads.com/book/show/3836.Don_Quixote?ac=1&from_search=true&qid=dck0K99Hfb&rank=1)
+* [The Count of Monte Cristo by <em>Alexandre Dumas</em>](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo?ac=1&from_search=true&qid=CV53r62URh&rank=1)
+
 
 ## Books I read in 2020
 * [Modern Romance by <em>Aziz Ansari</em>](https://www.goodreads.com/book/show/23453112-modern-romance)
 * [The Institute by <em>Stephen King</em>](https://www.goodreads.com/book/show/43798285-the-institute?ac=1&from_search=true&qid=hp124zgzZU&rank=1)
 * [The Stranger by <em>Albert Camus</em>](https://www.goodreads.com/book/show/49552.The_Stranger?ac=1&from_search=true&qid=E1gYUlqyqQ&rank=1)
+* [Talking to Strangers by <em>Malcom Gladwell</em>](https://www.goodreads.com/book/show/43848929-talking-to-strangers?ac=1&from_search=true&qid=0EZP73LBlA&rank=1)
+* [The Sirens of Titan by <em>Kurt Vonnegut</em>](https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan)
+* [Salt by <em>Mark Kurlansky</em>](https://www.goodreads.com/book/show/2715.Salt)
+
 
 ## Books I read in 2019
 * [Educated by <em>Tara Westover</em>](https://www.goodreads.com/book/show/35133922-educated?from_search=true)
