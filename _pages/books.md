@@ -18,7 +18,6 @@ redirect_from:
 <br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387722025l/174713.jpg'>
 
 ## Books that I would like to read
-* [Missoula by <em>John Krakauer</em>](https://www.goodreads.com/book/show/24911006-missoula?from_search=true&from_srp=true&qid=zaGRtQMi0w&rank=1)
 * [How to Change Your Mind by <em>Michael Pollan</em>](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind?from_search=true&from_srp=true&qid=UsIJGqvM6Z&rank=4) 
 * [God: A Human History by <em>Reza Aslan</em>](https://www.goodreads.com/book/show/34101725-god?from_search=true&from_srp=true&qid=t2OE4LwQBi&rank=2) 
 * [Kitchen Confidential by <em>Anthony Bourdain</em>](https://www.goodreads.com/book/show/33313.Kitchen_Confidential?ac=1&from_search=true&qid=icSYU8yVW3&rank=1) 
@@ -36,6 +35,7 @@ redirect_from:
 * [Talking to Strangers by <em>Malcom Gladwell</em>](https://www.goodreads.com/book/show/43848929-talking-to-strangers?ac=1&from_search=true&qid=0EZP73LBlA&rank=1)
 * [The Sirens of Titan by <em>Kurt Vonnegut</em>](https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan)
 * [Salt by <em>Mark Kurlansky</em>](https://www.goodreads.com/book/show/2715.Salt)
+* [Missoula by <em>John Krakauer</em>](https://www.goodreads.com/book/show/24911006-missoula?from_search=true&from_srp=true&qid=zaGRtQMi0w&rank=1)
 
 
 ## Books I read in 2019
