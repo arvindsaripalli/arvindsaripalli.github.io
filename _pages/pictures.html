@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "My Pictures"
+permalink: /pictures/
+author_profile: true
+redirect_from:
+  - /pictures
+---
+
+{% include base_path %}
+
+
+{% for post in site.pictures %}
+  {% include archive-single.html %}
+{% endfor %}
+
