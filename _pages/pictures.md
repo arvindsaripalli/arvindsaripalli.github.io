@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "My Pictures"
-permalink: /pictures_old/
+permalink: /pictures/
 author_profile: true
 redirect_from:
   - /picture
