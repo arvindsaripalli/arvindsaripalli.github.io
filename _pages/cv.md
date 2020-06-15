@@ -12,8 +12,11 @@ redirect_from:
 Education
 ======
 University of California San Diego
+
 B.S. Computer Science and Engineering
+
 Magna Cum Laude
+
 Class of 2020
 
 Work experience
