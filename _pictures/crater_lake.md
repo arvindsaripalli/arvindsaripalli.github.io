@@ -10,7 +10,7 @@ collection: pictures
     <div style="float: left; width: 50%; padding 5px">
         <img src="/images/portfolio/crater_lake/2.jpg">
     </div>
-    <div style="float: left; width: 50%; padding 5px">
+    <div style="float: left; width: 47%; padding 5px">
         <img src="/images/portfolio/crater_lake/3.jpg">
     </div>
 </div>
