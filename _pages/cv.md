@@ -13,10 +13,16 @@ Education
 ======
 University of California San Diego
 B.S. Computer Science and Engineering
-Expected June 2020
+Magna Cum Laude
+Class of 2020
 
 Work experience
 ======
+* Asana
+  * Software Engineer
+  * July 2020 - Present
+  * San Francisco, CA
+
 * Facebook
   * Software Engineering Intern
   * June 2019 - September 2019
@@ -53,14 +59,23 @@ Research Experience
 Skills
 ======
 * Languages: Python, Java, Javascript, C, C++ STL, R/Matlab
-* Libraries: Pytorch, Pandas, Numpy, OpenCV, Tensorflow
+* Libraries: Pandas, Numpy, OpenCV, Tensorflow
 * Other: Deep Learning, UNIX, Docker, Git
 
 Relevant Coursework
 ======
+* Spring 2020
+  * CSE 227 - Graduate Computer Security
+    * Final Project: [Breezy - A bug trend analysis framework ](http://arvindsaripalli.github.io/files/breezy.pdf)
+
+* Winter 2020
+  * CSE 124 - Networked Services
+  * CSE 127 - Computer Security
+  * CSE 141 - Computer Architecture
+  * CSE 191 - Production Engineering Seminar
+
 * Fall 2019
-  * CSE 106 - Discrete and Continuous Optimization
-  * CSE 154 - Deep Learning
+  * CSE 123 - Computer Networks
   * CSE 130 - Programming Languages
 
 * Spring 2019

@@ -14,8 +14,6 @@ redirect_from:
 [Chasing the Scream: The First and Last Days of the War on Drugs by <em>Jonathan Hari</em>](https://www.goodreads.com/book/show/22245552-chasing-the-scream?ac=1&from_search=true&qid=dRbBNsUP1i&rank=1)
 <br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416448118l/22245552.jpg'>
 
-[The Lessons of History by <em>Will Durant</em>](https://www.goodreads.com/book/show/174713.The_Lessons_of_History?ac=1&from_search=true&qid=BpuxpZS5g9&rank=1)
-<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387722025l/174713.jpg'>
 
 ## Books that I would like to read
 * [How to Change Your Mind by <em>Michael Pollan</em>](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind?from_search=true&from_srp=true&qid=UsIJGqvM6Z&rank=4) 
@@ -36,6 +34,7 @@ redirect_from:
 * [The Sirens of Titan by <em>Kurt Vonnegut</em>](https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan)
 * [Salt by <em>Mark Kurlansky</em>](https://www.goodreads.com/book/show/2715.Salt)
 * [Missoula by <em>John Krakauer</em>](https://www.goodreads.com/book/show/24911006-missoula?from_search=true&from_srp=true&qid=zaGRtQMi0w&rank=1)
+* [The Lessons of History by <em>Will and Ariel Durant</em>](https://www.goodreads.com/book/show/174713.The_Lessons_of_History?ac=1&from_search=true&qid=BpuxpZS5g9&rank=1)
 
 
 ## Books I read in 2019

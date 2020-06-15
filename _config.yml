@@ -29,7 +29,7 @@ comments:
   facebook: 
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "light" #(default), "dark"
+    colorscheme          : "dark" #(default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Arvind Saripalli"
   avatar           : "profile_cropped.jpeg"
-  bio              : "I'm a Computer Science student at UC San Diego"
-  location         : "Redmond, WA"
+  bio              : "Software Engineer \n UC San Diego CSE Alum"
+  location         : "San Francisco, CA"
   employer         :
   pubmed           : 
   googlescholar    : 
