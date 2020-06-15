@@ -1,6 +1,6 @@
 ---
 title: "Margaret Lake"
-excerpt: "Margaret Lake, WA | B&W Film"
+excerpt: "Margaret Lake, WA - B&W Film"
 collection: pictures
 ---
 
