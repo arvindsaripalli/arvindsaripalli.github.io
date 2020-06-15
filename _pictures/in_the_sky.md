@@ -7,7 +7,7 @@ collection: pictures
 <p>
     <div style="  content: '' clear: both; display: table;">
         <div style="float: left; width: 49%; margin-right: 2%;">
-            <img src="/images/portfolio/in_the_sky/2.jpg">
+            <img src="/images/portfolio/in_the_sky/1.jpg">
         </div>
         <div style="float: left; width: 49%;">
             <img src="/images/portfolio/in_the_sky/2.jpg">
