@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="/images/portfolio/cutting_corners.png">
 
-My friend Ravi and I host a podcast called [Cutting Corners](https://anchor.fm/cutting-corners). The podcast is mostly about nothing, give it a listen!
+My friend Ravi and I host a podcast called [Cutting Corners](https://anchor.fm/cutting-corners). The podcast is mostly about nothing, give it a listen! Let us know if you'd like us to talk about something specific.
 
 [comment]: #
 <!-- Publications
