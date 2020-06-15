@@ -1,5 +1,5 @@
 ---
-title: "Friendsgiving 2019"
+title: "Friendsgiving, 2019"
 excerpt: "La Jolla, CA"
 collection: pictures
 ---
