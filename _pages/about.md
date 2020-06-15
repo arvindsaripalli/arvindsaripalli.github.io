@@ -14,7 +14,7 @@ I like working with infra at scale, computer networking, and distributed systems
 
 I'm a Software Engineer at Asana on the Multi Cluster Scaling team.
 
-In my free time, I like to [read](http://arvindsaripalli.github.io/books), take photos, and run.
+In my free time, I like to [read](http://arvindsaripalli.github.io/books), take [photos](http://arvindsaripalli.github.io/pictures), and run.
 
 
 [comment]: #
