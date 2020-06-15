@@ -1,6 +1,6 @@
 ---
 title: "Meet the Beach"
-excerpt: "La Jolla, CA | Color Film"
+excerpt: "La Jolla, CA - Color Film"
 collection: pictures
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Warren College"
-excerpt: "La Jolla, CA | Film"
+excerpt: "La Jolla, CA - Film"
 collection: pictures
 ---
 
