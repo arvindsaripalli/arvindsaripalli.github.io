@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 ## What I'm reading right now
-[East of Eden by <em>John Steinbeck</em>](https://www.goodreads.com/book/show/4406.East_of_Eden)
-<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544744853l/4406._SY475_.jpg'>
-
 [Chasing the Scream: The First and Last Days of the War on Drugs by <em>Jonathan Hari</em>](https://www.goodreads.com/book/show/22245552-chasing-the-scream?ac=1&from_search=true&qid=dRbBNsUP1i&rank=1)
 <br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416448118l/22245552.jpg'>
 
@@ -35,6 +32,7 @@ redirect_from:
 * [Salt by <em>Mark Kurlansky</em>](https://www.goodreads.com/book/show/2715.Salt)
 * [Missoula by <em>John Krakauer</em>](https://www.goodreads.com/book/show/24911006-missoula?from_search=true&from_srp=true&qid=zaGRtQMi0w&rank=1)
 * [The Lessons of History by <em>Will and Ariel Durant</em>](https://www.goodreads.com/book/show/174713.The_Lessons_of_History?ac=1&from_search=true&qid=BpuxpZS5g9&rank=1)
+* [East of eden by <em>John Steinbeck</em>](https://www.goodreads.com/book/show/4406.East_of_Eden)
 
 
 ## Books I read in 2019
