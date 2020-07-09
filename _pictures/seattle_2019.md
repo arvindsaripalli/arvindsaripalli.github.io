@@ -1,5 +1,5 @@
 ---
-title: "Seattle 2019"
+title: "Seattle 2019 - Color Film"
 excerpt: "Seattle, WA"
 collection: pictures
 ---
