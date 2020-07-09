@@ -15,11 +15,14 @@ collection: pictures
     </div>
 </p>
 
-
 <img src="/images/portfolio/i_miss_sd/3.jpg">
+
 <img src="/images/portfolio/i_miss_sd/4.jpg">
+
 <img src="/images/portfolio/i_miss_sd/5.jpg">
+
 <img src="/images/portfolio/i_miss_sd/6.jpg">
+
 <img src="/images/portfolio/i_miss_sd/7.jpg">
 
 <p>
@@ -44,7 +47,8 @@ collection: pictures
     </div>
 </p>
 
-
 <img src="/images/portfolio/i_miss_sd/12.jpg">
+
 <img src="/images/portfolio/i_miss_sd/13.jpg">
+
 <img src="/images/portfolio/i_miss_sd/14.jpg">
