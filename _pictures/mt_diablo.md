@@ -1,6 +1,6 @@
 ---
-title: "Somewhere in the sky"
-excerpt: "B&W Film"
+title: "Mt. Diablo"
+excerpt: "Taken at the top"
 collection: pictures
 ---
 
