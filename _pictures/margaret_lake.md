@@ -1,6 +1,6 @@
 ---
 title: "Margaret Lake"
-excerpt: "Margaret Lake, WA - B&W Film"
+excerpt: "Margaret Lake, WA - Film"
 collection: pictures
 ---
 
@@ -18,3 +18,16 @@ collection: pictures
 </p>
 
 <img src="/images/portfolio/margaret_lake/4.jpg">
+
+<p>
+    <div style="  content: '' clear: both; display: table;">
+        <div style="float: left; width: 49%; margin-right: 2%;">
+            <img src="/images/portfolio/margaret_lake/5.jpg">
+        </div>
+        <div style="float: left; width: 49%;">
+            <img src="/images/portfolio/margaret_lake/6.jpg">
+        </div>
+    </div>
+</p>
+
+<img src="/images/portfolio/margaret_lake/7.jpg">
