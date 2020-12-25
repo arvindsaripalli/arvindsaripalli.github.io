@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## What I'm reading right now
-[Edgedancer by <em><Brandon Sanderson/em>](https://www.goodreads.com/book/show/34703445-edgedancer?ac=1&from_search=true&qid=qDNC5DuNb8&rank=4)
+[Edgedancer by <em><Brandon Sanderson</em>](https://www.goodreads.com/book/show/34703445-edgedancer?ac=1&from_search=true&qid=qDNC5DuNb8&rank=4)
 <br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499706661l/34703445.jpg'>
 
 
