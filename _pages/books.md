@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ## What I'm reading right now
-[Chasing the Scream: The First and Last Days of the War on Drugs by <em>Jonathan Hari</em>](https://www.goodreads.com/book/show/22245552-chasing-the-scream?ac=1&from_search=true&qid=dRbBNsUP1i&rank=1)
-<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416448118l/22245552.jpg'>
+[Edgedancer by <em><Brandon Sanderson/em>](https://www.goodreads.com/book/show/34703445-edgedancer?ac=1&from_search=true&qid=qDNC5DuNb8&rank=4)
+<br><img src='https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499706661l/34703445.jpg'>
 
 
 ## Books that I would like to read
@@ -18,7 +18,6 @@ redirect_from:
 * [Kitchen Confidential by <em>Anthony Bourdain</em>](https://www.goodreads.com/book/show/33313.Kitchen_Confidential?ac=1&from_search=true&qid=icSYU8yVW3&rank=1) 
 * [Everything I Never Told You by <em>Celeste Ng</em>](https://www.goodreads.com/book/show/18693763-everything-i-never-told-you?ac=1&from_search=true&qid=cwCdttgCyy&rank=1) 
 * [Born a Crime by <em>Trevor Noah</em>](https://www.goodreads.com/book/show/29780253-born-a-crime?from_search=true&from_srp=true&qid=D3e3CPzTlL&rank=1)
-* [Becoming by <em>Michelle Obama</em>](https://www.goodreads.com/book/show/38746485-becoming?from_search=true&from_srp=true&qid=Yxarl0ibeX&rank=1)
 * [Don Quixote by <em>Miguel de Cervantes Saavedra</em>](https://www.goodreads.com/book/show/3836.Don_Quixote?ac=1&from_search=true&qid=dck0K99Hfb&rank=1)
 * [The Count of Monte Cristo by <em>Alexandre Dumas</em>](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo?ac=1&from_search=true&qid=CV53r62URh&rank=1)
 
@@ -33,6 +32,10 @@ redirect_from:
 * [Missoula by <em>John Krakauer</em>](https://www.goodreads.com/book/show/24911006-missoula?from_search=true&from_srp=true&qid=zaGRtQMi0w&rank=1)
 * [The Lessons of History by <em>Will and Ariel Durant</em>](https://www.goodreads.com/book/show/174713.The_Lessons_of_History?ac=1&from_search=true&qid=BpuxpZS5g9&rank=1)
 * [East of eden by <em>John Steinbeck</em>](https://www.goodreads.com/book/show/4406.East_of_Eden)
+* [Chasing the Scream: The First and Last Days of the War on Drugs by <em>Jonathan Hari</em>](https://www.goodreads.com/book/show/22245552-chasing-the-scream?ac=1&from_search=true&qid=dRbBNsUP1i&rank=1)
+* [Becoming by <em>Michelle Obama</em>](https://www.goodreads.com/book/show/38746485-becoming?from_search=true&from_srp=true&qid=Yxarl0ibeX&rank=1)
+* [Way of Kings by <em>Brandon Sanderson</em>](https://www.goodreads.com/book/show/7235533-the-way-of-kings?from_search=true&from_srp=true&qid=9iQd11Gi8T&rank=1)
+* [Words of Radiance by <em>Brandon Sanderson</em>](https://www.goodreads.com/book/show/17332218-words-of-radiance?ac=1&from_search=true&qid=OommCROTax&rank=1)
 
 
 ## Books I read in 2019
